@@ -1,0 +1,4 @@
+Ideas for input:
+
+- Read from CSV/text file
+- Command line args input
