@@ -4,6 +4,17 @@
 """This is a program to show you what you sold in the vending shop when you
    log back in the game"""
 
+import csv
+import datetime # This is for logging the current date in the shelf file
+import shelve
+
+def get_data_from_file(file_path):
+    """Opens a CSV file and retrieves the data from it"""
+
+def create_data_file(file_path):
+    """Creates a CSV file with the data the user provided"""
+
+
 if __name__ == '__main__':
     # Main method goes here
     print("Welcome to the market tracker!")

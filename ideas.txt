@@ -2,3 +2,7 @@ Ideas for input:
 
 - Read from CSV/text file
 - Command line args input
+
+Feature ideas
+
+- Calculate time comparing to server time (right now it's GMT -8)
